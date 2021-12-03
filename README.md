@@ -12,3 +12,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 
 * [Day 01](https://github.com/mnhtrieu/advent2021/tree/master/01_day) - Sonar Sweep | PART 1: `1288` | PART 2: `1311`
 * [Day 02](https://github.com/mnhtrieu/advent2021/tree/master/02_day) - Dive! | PART 1: `1728414` | PART 2: `1765720035`
+* [Day 03](https://github.com/mnhtrieu/advent2021/tree/master/03_day) - Binary Diagnostic | PART 1: `4160394` | PART 2: `4125600`
