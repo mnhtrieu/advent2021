@@ -14,3 +14,4 @@ Each puzzle consists of two parts. On successfully solving the first part, the s
 * [Day 02](https://github.com/mnhtrieu/advent2021/tree/master/02_day) - Dive! | PART 1: `1728414` | PART 2: `1765720035`
 * [Day 03](https://github.com/mnhtrieu/advent2021/tree/master/03_day) - Binary Diagnostic | PART 1: `4160394` | PART 2: `4125600`
 * [Day 04](https://github.com/mnhtrieu/advent2021/tree/master/04_day) - Giant Squid | PART 1: `4662` | PART 2: `412080125600`
+* [Day 05](https://github.com/mnhtrieu/advent2021/tree/master/05_day) - Hydrothermal Venture | PART 1: `5167` | PART 2: `17604`
